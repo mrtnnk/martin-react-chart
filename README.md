@@ -9,12 +9,6 @@
 <a href="https://react-chat-signup.herokuapp.com/" target="\_parent">
   <img alt="" src="https://img.shields.io/badge/slack-react--chat-blue.svg" />
 </a>
-<a href="https://github.com/react-charts/react-charts" target="\_parent">
-  <img alt="" src="https://img.shields.io/github/stars/react-charts/react-charts.svg?style=social&label=Star" />
-</a>
-<a href="https://twitter.com/tannerlinsley" target="\_parent">
-  <img alt="" src="https://img.shields.io/twitter/follow/tannerlinsley.svg?style=social&label=Follow" />
-</a>
 
 Simple, immersive &amp; interactive charts for React
 
@@ -25,8 +19,6 @@ Simple, immersive &amp; interactive charts for React
 - Powered by D3
 - Rendered by React
 - Flexible data model
-
-## [Demos](https://react-charts.js.org)
 
 ## Intro
 
@@ -90,7 +82,7 @@ const lineChart = (
 
 ## Documentation
 
-Documentation is **not complete**. The most detailed usage examples are visible by [browsing the website's examples](https://github.com/react-tools/react-charts/tree/master/www/src/containers).
+Documentation is **not complete**. The most detailed usage examples are visible by [browsing the website's examples](https://github.com/mrtnnk/martin-react-chart).
 
 What sparse documentation is available in this readme is being progressively worked on below.
 
